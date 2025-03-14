@@ -67,3 +67,21 @@ phones["work"];
 //     number: string;
 //   };
 // }
+
+const fileExtensions = ["js", "ts"];
+// string[] Array<string>
+
+// const twoDArray: string[][] = [
+//   ["1", "2"],
+//   ["3", "4"],
+// ];
+
+// const twoDArray2: Array<Array<string>> = [
+//   ["1", "2"],
+//   ["3", "4"],
+// ];
+
+// const twoDArray3: Array<Array<number>> = [
+//   [1, 2],
+//   [3, 4],
+// ];
